@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Este es un repositorio de pruva modulo 2 de henry
+este es proyecto es una prueva como clonarlo y guardar en escritorio 
